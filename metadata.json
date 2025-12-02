@@ -1,0 +1,8 @@
+{
+  "name": "AgriX",
+  "description": "Real-time crop trading platform connecting farmers and brokers with an offer-driven marketplace model.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
